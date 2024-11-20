@@ -87,9 +87,3 @@ The primary goal is to predict fraudulent transactions (binary classification) u
 | Isolation Forest       | N/A      | ~85%      | ~90%   | N/A      |
 | Clustering (K-Means)   | N/A      | N/A       | ~85%   | N/A      |
 
----
-
-## How to Use
-1. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
